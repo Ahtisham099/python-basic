@@ -13,3 +13,5 @@ Functions and Modules
 Prerequisites
 Python 3.x installed on your system. Download Python
 A code editor like VS Code or any IDE of your choice.
+
+📄 License This project is licensed under the MIT License. Feel free to use and modify it as needed.
